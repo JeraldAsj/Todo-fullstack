@@ -12,7 +12,6 @@ module.exports = {
   update_fail_message: "Updated Failed!",
   update_success_message: "Updated Success!",
   pwd_reset_reqested_time: 1440,
-  base_url: "http://habitok.efficientdevs.com/",
   academic_year: "2020",
   academic_year_char: "2020-2021",
 };
