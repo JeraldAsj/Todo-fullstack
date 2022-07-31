@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "node": "^18.7.0",
+    "restapi": "^0.0.6"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "todo server",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}

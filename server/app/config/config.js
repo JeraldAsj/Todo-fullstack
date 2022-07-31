@@ -1,0 +1,18 @@
+module.exports = {
+  error: "500",
+  error_message: "Error Occurred",
+  success: "200",
+  success_message: "Success",
+  missing_arg: "400",
+  duplicate: "1062",
+  missing_arg_msg: "is not allowed to be empty!",
+  empty: "0",
+  empty_message: "Data not available!",
+  missing: "Parem is missing!",
+  update_fail_message: "Updated Failed!",
+  update_success_message: "Updated Success!",
+  pwd_reset_reqested_time: 1440,
+  base_url: "http://habitok.efficientdevs.com/",
+  academic_year: "2020",
+  academic_year_char: "2020-2021",
+};
